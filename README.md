@@ -11,6 +11,12 @@ Supabase PostgreSQL과 연동한 뒤 Render에 배포했습니다.
 - Swagger Docs: https://ledger-api-7ghl.onrender.com/docs
 - GitHub: https://github.com/daerogu/ledger-api
 
+## Supabase 연동 확인
+
+FastAPI에서 생성한 데이터가 Supabase PostgreSQL에 정상적으로 저장되는 것을 확인했습니다.
+
+![Supabase 연동 확인](images/supabase_1.png)
+
 ## 기술 스택
 
 - FastAPI
